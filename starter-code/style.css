@@ -1,3 +1,31 @@
-/* This is a multi-line
-comment. Add your CSS code
-from Unit 1 - 5 below  */
+
+	.board {
+height: 80px;
+width: 50px;
+display: inline-block;
+
+}
+
+	.card {
+	background-color: yellow;
+	height: 200px;
+	width: 150px;
+	border: 1px solid black;
+	border-radius: 10px;
+
+}
+h1 {
+	color: teal;
+}
+h2 {
+	color: gold;
+}
+	.name { 
+	color:#ff0000;
+ }
+header {
+	text-align: center;
+}
+footer{
+	padding-top: 46em;
+}
