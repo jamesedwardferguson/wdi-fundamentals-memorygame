@@ -12,19 +12,22 @@ display: inline-block;
 	width: 150px;
 	border: 1px solid black;
 	border-radius: 10px;
-
+	float: left;
+	margin: 10;
 }
 h1 {
 	color: teal;
+	text-align: center;
 }
 h2 {
 	color: gold;
+	text-align: center;
 }
 	.name { 
 	color:#ff0000;
  }
-header {
-	text-align: center;
+nav{
+	background-color: #808080;
 }
 footer{
 	padding-top: 46em;
