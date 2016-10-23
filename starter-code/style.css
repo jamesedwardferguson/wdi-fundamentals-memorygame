@@ -23,12 +23,30 @@ h2 {
 	color: gold;
 	text-align: center;
 }
+p{
+	text-align: center;
+}
 	.name { 
 	color:#ff0000;
- }
+}
+	.board {
+height: 80px;
+width: 50px;
+display: inline-block;
+}
+
 nav{
 	background-color: #808080;
 }
+a{
+	background-color: yellow;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 35px;
+}
 footer{
-	padding-top: 46em;
+	background-color: grey;
+	text-align: center;
 }
